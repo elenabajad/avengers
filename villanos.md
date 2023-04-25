@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Sr. Hull
-* Dr. Bajaña
+* Capitán América
